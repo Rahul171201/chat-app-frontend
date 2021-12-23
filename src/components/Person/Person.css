@@ -1,0 +1,6 @@
+.personlist {
+    list-style-type: none;
+    font-family: "Montserrat", sans-serif;
+    margin-left: 20px;
+    line-height: 60px;
+  }

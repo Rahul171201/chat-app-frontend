@@ -1,0 +1,14 @@
+.personlist {
+  list-style-type: none;
+  font-family: "Montserrat", sans-serif;
+  margin-left: 20px;
+  line-height: 60px;
+}
+.mainlist {
+  margin: 5px;
+  padding: 5px;
+  width: 20vw;
+  height: 80vh;
+  overflow: auto;
+  text-align: justify;
+}

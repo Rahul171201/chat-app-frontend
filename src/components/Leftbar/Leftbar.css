@@ -1,0 +1,35 @@
+.mainboxleft {
+  background-color: #EDD2F3;
+  width: 20vw;
+  height: 100vh;
+}
+.headerleft{
+    width: 100%;
+    background-color: #9145B6;
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+    border-radius: 0px 0px 20px 20px;
+}
+.logoimageleft {
+  height: 60px;
+  width: 60px;
+  object-fit: cover;
+  border-radius: 100%;
+  margin-bottom: 20px;
+}
+.onlinetextleft{
+    font-family: 'Montserrat', sans-serif;
+}
+.logoleft{
+    padding: auto;
+    margin: 20px 0px 0px 20px;
+}
+.onlineleft{
+    margin: 20px 0px 0px 120px;
+}
+.peoplelistleft{
+  width: 20vw;
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+}

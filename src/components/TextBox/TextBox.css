@@ -1,0 +1,18 @@
+.textbox{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 0px 19px 19px 19px;
+    background-color: #B1D0E0;
+    width: 40vw;
+}
+.time{
+    font-size: 15px;
+   margin-left: 150px;
+   color: gray;
+}
+.ticklogo{
+    margin: 90px 40px 0px 0px;
+    font-size: 29px;
+}
